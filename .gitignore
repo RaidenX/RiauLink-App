@@ -62,3 +62,5 @@ gradle.properties
 
 ios/
 android/
+
+package-lock.json
