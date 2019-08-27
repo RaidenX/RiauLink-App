@@ -8,6 +8,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-native": "^3.7.0",
+    "eslint-utils": "^1.4.2",
     "react": "16.8.6",
     "react-native": "0.60.4",
     "react-native-webview": "^6.9.0"
