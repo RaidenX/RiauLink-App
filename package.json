@@ -13,7 +13,9 @@
     "eslint-utils": "^1.4.2",
     "react": "16.8.6",
     "react-native": "0.60.4",
-    "react-native-webview": "^6.9.0"
+    "react-native-webview": "^6.9.0",
+    "websocket": "^1.0.29",
+    "ws": "^7.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
