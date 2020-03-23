@@ -8,9 +8,12 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "acorn": "^7.1.1",
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-native": "^3.8.1",
     "eslint-utils": "^1.4.3",
+    "handlebars": "^4.7.3",
+    "minimist": "^1.2.5",
     "react": "16.8.6",
     "react-native": "0.60.4",
     "react-native-webview": "^6.11.1",
